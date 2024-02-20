@@ -1,0 +1,8 @@
+sht3x.c:29:6:SHT3X_Set_Handle	1
+sht3x.c:34:6:SHT3X_Set_Address	1
+sht3x.c:39:16:calculate_crc	4
+sht3x.c:56:13:sht3x_send_command	2
+sht3x.c:68:17:uint8_to_uint16	1
+sht3x.c:73:6:sht3x_init	4
+sht3x.c:100:6:sht3x_read_temperature_and_humidity	4
+sht3x.c:128:6:sht3x_set_header_enable	2

@@ -1,0 +1,15 @@
+../Core/Src/LPS22HB.c:11:6:LPS22HB_Set_Handle	16	static
+../Core/Src/LPS22HB.c:16:6:LPS22HB_Set_Address	16	static
+../Core/Src/LPS22HB.c:21:18:LPS22HB_Init	40	static
+../Core/Src/LPS22HB.c:44:18:LPS22HB_Update_Data	40	static
+../Core/Src/LPS22HB.c:65:7:LPS22HB_Get_Pressure	16	static
+../Core/Src/LPS22HB.c:70:10:LPS22HB_Get_PressureRaw	16	static
+../Core/Src/LPS22HB.c:75:7:LPS22HB_Get_Temperature	16	static
+../Core/Src/LPS22HB.c:80:9:LPS22HB_Get_TemperatureRaw	16	static
+../Core/Src/LPS22HB.c:85:18:LPS22HB_Set_ODR	32	static
+../Core/Src/LPS22HB.c:108:18:LPS22HB_Set_LPF	32	static
+../Core/Src/LPS22HB.c:131:18:LPS22HB_Set_DRDY	32	static
+../Core/Src/LPS22HB.c:155:18:LPS22HB_Set_FIFO	24	static
+../Core/Src/LPS22HB.c:170:18:LPS22HB_Reset_FIFO	24	static
+../Core/Src/LPS22HB.c:182:18:LPS22HB_Write_Reg	32	static
+../Core/Src/LPS22HB.c:204:18:LPS22HB_Read_Reg	48	static

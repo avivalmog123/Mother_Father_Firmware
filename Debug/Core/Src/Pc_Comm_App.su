@@ -1,0 +1,5 @@
+../Core/Src/Pc_Comm_App.c:46:6:Pc_Comm_App_Processing	384	static
+../Core/Src/Pc_Comm_App.c:214:6:PcCommAppLayerBuildResponseMsg	32	static
+../Core/Src/Pc_Comm_App.c:247:6:PcCommAppLayerSendCommResponse	24	static
+../Core/Src/Pc_Comm_App.c:257:6:PcCommAppLayerSendCommString	24	static
+../Core/Src/Pc_Comm_App.c:264:6:PcCommAppLayerSendCommDouble	24	static

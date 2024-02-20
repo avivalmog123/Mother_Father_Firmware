@@ -1,0 +1,3 @@
+../Core/Src/utils.c:19:10:crc32Init	4	static
+../Core/Src/utils.c:32:10:crc32ByteCalc	40	static
+../Core/Src/utils.c:58:10:crc32BuffCalc	48	static

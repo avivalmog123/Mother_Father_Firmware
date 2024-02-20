@@ -1,0 +1,3 @@
+hal_usb.c:21:9:usbBufferTx	3
+hal_usb.c:33:6:usbBufferProcessing	6
+hal_usb.c:51:6:usbCircularBufferInsert	3
